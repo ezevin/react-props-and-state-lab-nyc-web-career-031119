@@ -72,7 +72,6 @@ onAdoptPet = (id) =>{
             this.setState({pets: pets})
           })
       }
-
   }
 
   render() {
